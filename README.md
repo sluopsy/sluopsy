@@ -1,6 +1,6 @@
 # 🔭 Sara's Portfolio
 
-![](https://github.com/sluopsy/images/blob/main/lake-banner-50-2.jpg?raw=true)
+![](https://github.com/sluopsy/images-public/blob/main/lake-banner-50-2.jpg?raw=true)
 
 <!--
 **sluopsy/sluopsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
