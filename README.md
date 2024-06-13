@@ -1,4 +1,3 @@
-# 🔭 Sara's Portfolio
 
 ![](https://github.com/sluopsy/images/blob/main/lake-banner-50-2.jpg?raw=true)
 
